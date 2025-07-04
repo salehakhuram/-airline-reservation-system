@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Aircraft.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Airline.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Airport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BaggageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BoardingPassForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShowTicketForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserReservationForms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Flight.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FlightStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BoardingPass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Baggage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BookingHistoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ModifyReservations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Passenger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PaymentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reservation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SearchFlightsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateProfilee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Seat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ticket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Route.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Schedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Signup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
